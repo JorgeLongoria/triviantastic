@@ -1,6 +1,4 @@
-<script setup>
-  import NavMenu from '@/components/NavMenu.vue'
-</script>
+<script setup></script>
 
 <template>
   <NavMenu />
